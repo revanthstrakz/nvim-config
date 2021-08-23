@@ -376,6 +376,8 @@
 
 - repo: lambdalisue/nerdfont.vim  # lazy by nature
 
+- repo: Pocco81/AutoSave.nvim
+
 - repo: lambdalisue/fern-git-status.vim
   on_source: fern.vim
   hook_add: let g:fern_git_status_disable_startup = 1
