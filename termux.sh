@@ -1,8 +1,8 @@
-sudo npm install -g neovim
+npm install -g neovim python3-pip
 
-sudo apt -y install ruby
 
-sudo apt -y install gem
+
+
 
 pip3 install neovim
 
